@@ -46,5 +46,5 @@ namespace Lab_1
 				Console.WriteLine("Impossible to change - reached min value");
 			}
 		}
-	} 
+	}
 }
