@@ -15,7 +15,7 @@ namespace Lab_1
 		public int CurrentNum { get { return currentNum; } set { currentNum = value; } }
 		
 
-		public Counter(int startPoint = 1, int finishPoint = 10)
+		public Counter(int startPoint = 1, int finishPoint = 9)
 		{
 			startValue = startPoint;
 			finishValue = finishPoint;
