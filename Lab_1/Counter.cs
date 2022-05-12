@@ -6,7 +6,7 @@ using System.Text;
 namespace Lab_1
 {
 	public class Counter
-	{
+	{ 
 		private int startValue;
 		private int finishValue;
 		private int currentNum;
